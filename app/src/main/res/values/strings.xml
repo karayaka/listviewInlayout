@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">listviewInlayout</string>
+    <string name="almanyaHakkinda">Almanya ya da resmi adıyla Almanya Federal Cumhuriyeti Orta Avrupa da bir ülkedir. Kuzeyinde Kuzey Denizi Danimarka ve Baltık Denizi doğusunda Polonya ve Çek Cumhuriyeti güneyinde Avusturya ve İsviçre ve batısında Fransa Lüksemburg, Belçika,ve Hollanda bulunur.</string>
+    <string name="fransaHakkinda">Fransa, ya da resmi adıyla Fransız Cumhuriyeti, ana kara toprakları Batı Avrupa da bulunan ve dünyanın pek çok bölgesinde denizaşırı toprakları olan bir ülkedir. Kıta Fransası güneyde Akdeniz den kuzeyde Manş Denizi ve Kuzey Denizi ne, doğuda Ren Nehri nden batıda Atlas Okyanusu na kadar yayılan topraklarda yer alır</string>
+    <string name="ingiltereHakkinda">İngiltere, Birleşik Krallık ı meydana getiren dört ülkeden en büyük ve merkezi olanı. Avrupa nın batısında, Büyük Britanya adasında bulunur. İngiltere halkına İngilizler denir. England adı, 5. yüzyılda Saksonlarla birlikte adayı istila eden Cermen halkı Angluslardan kaynaklanır</string>
+    <string name="rusyaHakkinda">Rusya veya resmi adıyla Rusya Federasyonu, kuzey Avrasyada bir ülkedir. Yönetim şekli federal yarı başkanlık tipi cumhuriyettir</string>
+    <string name="turkiyeHakkinda">Türkiye ya da resmi adıyla Türkiye Cumhuriyeti, topraklarının büyük bölümü Anadolu ya, küçük bir bölümü ise Balkanlar ın uzantısı olan Trakya ya yayılmış bir ülke</string>
+</resources>
